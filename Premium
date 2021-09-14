@@ -1,0 +1,33 @@
+#EXTM3U
+
+#MAU AKSES YA HUBUNGI ADMIN MINTA "USER AGENT"...
+JANGAN ASAL COPY PASTE
+
+#EXTINF:-1 tvg-id="suryaTV" tvg-name="BEIN SPORT 1 HD PREMIUM" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="BEIN PREMIUM",BEIN SPORT 1 HD PREMIUM
+http://ricoootv.xyz:8080/beinsports/beinsports/1
+#EXTINF:-1 tvg-id="suryaTV" tvg-name="BEIN SPORT 2 HD PREMIUM" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="BEIN PREMIUM",BEIN SPORT 2 HD PREMIUM
+http://ricoootv.xyz:8080/beinsports/beinsports/2
+#EXTINF:-1 tvg-id="suryaTV" tvg-name="BEIN SPORT 3 HD PREMIUM" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="BEIN PREMIUM",BEIN SPORT 3 HD PREMIUM
+http://ricoootv.xyz:8080/beinsports/beinsports/3
+#EXTINF:-1 tvg-id="suryaTV" tvg-name="BEIN SPORT 1 HD" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="BEIN PREMIUM",BEIN SPORT 1 HD
+http://ricoootv.xyz:8080/beinsports/beinsports/4
+#EXTINF:-1 tvg-id="suryaTV" tvg-name="BEIN SPORT 2 HD" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="BEIN PREMIUM",BEIN SPORT 2 HD
+http://ricoootv.xyz:8080/beinsports/beinsports/5
+#EXTINF:-1 tvg-id="suryaTV" tvg-name="BEIN SPORT 3 HD" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="BEIN PREMIUM",BEIN SPORT 3 HD
+http://ricoootv.xyz:8080/beinsports/beinsports/6
+#EXTINF:-1 tvg-id="suryaTV" tvg-name="BEIN SPORT 5 HD" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="BEIN PREMIUM",BEIN SPORT 5 HD
+http://ricoootv.xyz:8080/beinsports/beinsports/8
+#EXTINF:-1 tvg-id="suryaTV" tvg-name="BEIN SPORT 6 HD" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="BEIN PREMIUM",BEIN SPORT 6 HD
+http://ricoootv.xyz:8080/beinsports/beinsports/9
+#EXTINF:-1 tvg-id="suryaTV" tvg-name="BEIN SPORT 7 HD" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="BEIN PREMIUM",BEIN SPORT 7 HD
+http://ricoootv.xyz:8080/beinsports/beinsports/10
+#EXTINF:-1 tvg-id="suryaTV" tvg-name="BEIN SPORT 4 HD" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="BEIN PREMIUM",BEIN SPORT 4 HD
+http://ricoootv.xyz:8080/beinsports/beinsports/7
+#EXTINF:-1 tvg-id="suryaTV" tvg-name="bein sport usa" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="BEIN PREMIUM",bein sport usa
+http://ricoootv.xyz:8080/beinsports/beinsports/84
+#EXTINF:-1 tvg-id="suryaTV" tvg-name="beinsport sd news" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="BEIN PREMIUM",beinsport sd news
+http://ricoootv.xyz:8080/beinsports/beinsports/90
+#EXTINF:-1 tvg-id="suryaTV" tvg-name="BEIN XTRA 1" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="BEIN PREMIUM",BEIN XTRA 1
+http://ricoootv.xyz:8080/beinsports/beinsports/424
+#EXTINF:-1 tvg-id="suryaTV" tvg-name="BEIN XTRA 2" tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="BEIN PREMIUM",BEIN XTRA 2
+http://ricoootv.xyz:8080/beinsports/beinsports/425
